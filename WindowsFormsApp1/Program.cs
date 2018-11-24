@@ -19,6 +19,7 @@ namespace WindowsFormsApp1
             Console.WriteLine("Ovo je DUMP internship");
             Console.WriteLine("Ovo je promjena u branchu");
             Console.WriteLine("Linija za rebase");
+            Console.WriteLine("Linija za rebase 2");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
