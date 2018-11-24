@@ -14,6 +14,7 @@ namespace WindowsFormsApp1
         [STAThread]
         static void Main()
         {
+            Console.WriteLine("Dakovic promjena");
             Console.WriteLine("Ovo je DUMP internship");
             Console.WriteLine("Ovo je promjena u branchu");
             Application.EnableVisualStyles();
