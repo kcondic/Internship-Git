@@ -15,6 +15,7 @@ namespace WindowsFormsApp1
         static void Main()
         {
             Console.WriteLine("Ovo je DUMP internship");
+            Console.WriteLine("Ovo je promjena u branchu");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
